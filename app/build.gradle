@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.ursa'
+    namespace 'org.lihi.ursa.ursa'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.ursa"
+        applicationId "org.lihi.ursa.ursa"
         minSdk 26
         targetSdk 33
         versionCode 1

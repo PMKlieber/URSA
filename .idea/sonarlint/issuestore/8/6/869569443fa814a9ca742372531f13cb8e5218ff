@@ -1,0 +1,7 @@
+
+Skotlin:S6615>";Remove this variable, which is assigned but never accessed.(ÏõÐ”
+>kotlin:S66155"&The value assigned here is never used.(ƒÇÈ§
+Fkotlin:S1481M")Remove this unused "endb" local variable.(¨èì½ùÿÿÿÿ
+Dkotlin:S1481L",Remove this unused "bottomb" local variable.(äÂÛÝ
+Akotlin:S1481K")Remove this unused "topb" local variable.(Úòšð
+okotlin:S3776/"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(Ú‰ò…þÿÿÿÿ
